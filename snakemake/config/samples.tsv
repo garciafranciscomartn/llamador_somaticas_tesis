@@ -1,0 +1,5 @@
+sample_id	bam_path	group
+SampleA	/path/to/SampleA.markdup.bqsr.bam	GroupX
+SampleB	/path/to/SampleB.markdup.bqsr.bam	GroupX
+SampleC	/path/to/SampleC.markdup.bqsr.bam	GroupY
+SampleD	/path/to/SampleD.markdup.bqsr.bam	GroupY
