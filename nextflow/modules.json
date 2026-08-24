@@ -1,0 +1,82 @@
+{
+  "name": "",
+  "homePage": "",
+  "repos": {
+    "https://github.com/nf-core/modules.git": {
+      "modules": {
+        "nf-core": {
+          "bcftools/concat": {
+            "branch": "master",
+            "git_sha": "feef37435aea56816adf4b3bde1fc76aac327a8d",
+            "installed_by": ["modules"]
+          },
+          "bcftools/isec": {
+            "branch": "master",
+            "git_sha": "feef37435aea56816adf4b3bde1fc76aac327a8d",
+            "installed_by": ["modules"]
+          },
+          "bcftools/norm": {
+            "branch": "master",
+            "git_sha": "feef37435aea56816adf4b3bde1fc76aac327a8d",
+            "installed_by": ["modules"]
+          },
+          "bcftools/view": {
+            "branch": "master",
+            "git_sha": "feef37435aea56816adf4b3bde1fc76aac327a8d",
+            "installed_by": ["modules"]
+          },
+          "gatk4/calculatecontamination": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "gatk4/filtermutectcalls": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "gatk4/getpileupsummaries": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "gatk4/learnreadorientationmodel": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "gatk4/mutect2": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "gatk4/selectvariants": {
+            "branch": "master",
+            "git_sha": "d5de7a949aa84689f4098c958f05733a6c3804f5",
+            "installed_by": ["modules"]
+          },
+          "manta/somatic": {
+            "branch": "master",
+            "git_sha": "6d46786420b4d7bc88eba026eb389c0c5535d120",
+            "installed_by": ["modules"]
+          },
+          "strelka/somatic": {
+            "branch": "master",
+            "git_sha": "db2491458130c466967c4e9b44686314c3f37141",
+            "installed_by": ["modules"]
+          },
+          "varscan/processsomatic": {
+            "branch": "master",
+            "git_sha": "07d4126f5bcfdd47708c2fe7263413f41370a309",
+            "installed_by": ["modules"]
+          },
+          "varscan/somatic": {
+            "branch": "master",
+            "git_sha": "07d4126f5bcfdd47708c2fe7263413f41370a309",
+            "installed_by": ["modules"]
+          }
+        }
+      }
+    }
+  }
+}
